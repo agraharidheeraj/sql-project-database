@@ -24,7 +24,7 @@ The data used for this project is sourced from an IPL database. The database con
 
 The project is organized as follows:
 
-- `queries.sql`: SQL queries that answer specific questions about IPL data.
+- `ipl_query.sql`: SQL queries that answer specific questions about IPL data.
 - `README.md`: This file, providing an overview of the project.
 
 ## SQL Queries
